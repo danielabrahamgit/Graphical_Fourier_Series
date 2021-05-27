@@ -1,5 +1,5 @@
 ## Inspiration
-I will be developing a graphical tool for viewing the Fourier series of any real function, this is inspired by [this video](https://www.youtube.com/watch?v=ds0cmAV-Yek). I thought that the creator of this visualitzation technique has come across a very elegant way of displaying/demonstrating the fourier series. My atempt to recreate this is out of passion and desire to have more individuals be able to customize the code so that they can make their own demonstrations.  
+I will be developing a graphical tool for viewing the Fourier series of any real function, this is inspired by [this video](https://www.youtube.com/watch?v=ds0cmAV-Yek). I thought that the creator of this visualitzation technique has come across a very elegant way of displaying/demonstrating the fourier series. My atempt to recreate this is out of passion and interest for the topic. I would also like to have more individuals be able to customize the code so that they can make their own demonstrations.  
 
 ## Dependencies
 The entire thing is run in python, you will need the following libraries: 
